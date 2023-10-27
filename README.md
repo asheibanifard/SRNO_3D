@@ -14,18 +14,12 @@
 
 ## 1. Introduction
 
-Welcome to the SRNO 3D Version! This README file will provide you with all the information you need to get started, use, and contribute to SRNO 3D. SRNO 3D is an advanced software tool for 3D modeling, rendering, and animation.
-
+Welcome to the SRNO 3D Version! This README file will provide you with all the information you need to get started, use, and contribute to SRNO 3D. SRNO-3D, is the 3D version of [SRNO](https://github.com/2y7c3/Super-Resolution-Neural-Operator.git) to apply this super resolution technique on volume images.
 ## 2. Features
 
 SRNO 3D Version comes packed with a wide range of features, including:
 
-- **3D Modeling**: Create 3D models from scratch or import existing ones in various formats.
-- **Rendering**: Produce high-quality 3D renderings with realistic lighting and materials.
-- **Animation**: Animate your 3D models with keyframes and timelines.
-- **Texturing**: Apply textures and materials to enhance the realism of your models.
-- **Advanced Physics Simulation**: Simulate realistic physics and interactions in your 3D scenes.
-- **Scripting**: Customize and extend SRNO 3D with scripting and plugins.
+- **3D super resolution**: Applicable for 3D images
 - **Cross-Platform**: Available on Windows, macOS, and Linux.
 
 ## 3. Getting Started
