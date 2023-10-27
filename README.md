@@ -1,15 +1,3 @@
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Features](#2-features)
-3. [Getting Started](#3-getting-started)
-4. [System Requirements](#4-system-requirements)
-5. [Installation](#5-installation)
-6. [Usage](#6-usage)
-7. [FAQ](#7-faq)
-8. [Support](#8-support)
-9. [Contributing](#9-contributing)
-10. [License](#10-license)
-
 # SRNO 3D Version README
 
 ## Table of Contents
@@ -87,7 +75,6 @@ SRNO 3D Version is distributed under the [Apache 2.0 License](https://www.apache
 
 Thank you for choosing SRNO 3D Version. We hope you enjoy creating amazing 3D content with our software.
 
-
 ## 11. Citations
 
 If you found the information in this document useful, you may want to refer to the following sources for further details:
@@ -96,3 +83,5 @@ If you found the information in this document useful, you may want to refer to t
 2. [SRNO 3D Documentation](https://www.srno3d.com/documentation)
 
 Please ensure that you follow the appropriate citation style for your context when using these sources in your work.
+## 12. Acknowledgements
+This code is built on [SRNO](https://github.com/2y7c3/Super-Resolution-Neural-Operator.git)
